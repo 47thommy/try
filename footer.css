@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 2.5rem;
+  margin-top: 10%;
+  padding: 5%;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+.socialmedia a {
+  font-size: 25px;
+  margin: 5px;
+}
+.socialmedia h2 {
+  font-weight: bolder;
+  font-size: 25px;
+}
+.stuff {
+  font-size: 12px;
+}
+
+footer h1 {
+  font-size: 30px;
+  text-align: center;
+}
